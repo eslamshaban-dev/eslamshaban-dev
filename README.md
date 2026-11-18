@@ -46,4 +46,4 @@ Next.js     ○────────
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslamshaban-dev)
 
-Open to front-end roles: full-time, part-time or freelance, remote or on-site.
+Currently focused on learning and building. Always happy to connect with fellow developers and designers.
